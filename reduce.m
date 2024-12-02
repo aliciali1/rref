@@ -1,7 +1,3 @@
-% Homework Program 5
-% 
-% Name: Alicia Li
-% Date: 11/3/2024
 
 function [M, piv] = reduce(M, verbose)
 % REDUCE Given a matrix, perform row echelon reduction to reduced echelon
